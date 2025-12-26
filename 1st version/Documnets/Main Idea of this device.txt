@@ -1,0 +1,8 @@
+Modular ESP32-Based Smart Control Platform
+• Designed a versatile embedded platform with expandable GPIO headers enabling plug-and-play integration of sensors and actuators
+• Implemented local TFT-based human–machine interface (HMI) for real-time device configuration and control
+• Architected system for cloud-based IoT connectivity, enabling remote monitoring and control via server APIs
+• Designed scalable power and pin architecture to support future hardware extensions without redesign
+
+While ESP32-TFT integrated boards exist, they are designed for general-purpose use. My design focuses on power-efficient operation, modular GPIO expansion, and a clean system architecture tailored for scalable IoT control.
+
